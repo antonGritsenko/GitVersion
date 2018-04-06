@@ -2,6 +2,8 @@
 GitVersion 3.0 is mainly powered by configuration and no longer has branching
 strategies hard coded.
 
+WARNING! Most of configuration options below related to version 4.0 (still in beta) and will not work in v3.x of GitVersion.
+
 ## Configuration tool
 If you run `GitVersion init` you will be launched into a configuration tool, it
 can help you configure GitVersion the way you want it.
